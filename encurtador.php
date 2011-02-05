@@ -1,3 +1,5 @@
+<?
+
 /*
 Plugin Name: Encurtador de Link
 Plugin URI: link para a página do plugin
